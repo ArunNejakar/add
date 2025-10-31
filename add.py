@@ -1,4 +1,4 @@
-num1=float(input("Enter first number"))
-num2=float(input("Enter second number"))
-sum_result=num1+num2
-print("The sum of",num1,"and",num2,"is",sum_result)
+a=10
+b=3
+sum=a+b
+print("The sum of",a,"and",b,"is",sum)
